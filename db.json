@@ -1,0 +1,50 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "type": "user",
+      "name": "Sohan",
+      "age": 22
+    },
+    {
+      "id": 2,
+      "type": "product",
+      "name": "Laptop",
+      "price": 50000
+    },
+    {
+      "id": 3,
+      "type": "order",
+      "orderId": "ORD123",
+      "status": "pending"
+    }
+  ],
+  "reviews": [
+    {
+      "id": 1,
+      "user": "Sohan",
+      "rating": 5,
+      "comment": "Very helpful book!"
+    },
+    {
+      "id": 2,
+      "user": "Rahim",
+      "rating": 4,
+      "comment": "Good but a bit repetitive."
+    }
+  ],
+  "books": [
+    {
+      "id": 1,
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "price": 450
+    },
+    {
+      "id": 2,
+      "title": "Rich Dad Poor Dad",
+      "author": "Robert Kiyosaki",
+      "price": 350
+    }
+  ]
+}
